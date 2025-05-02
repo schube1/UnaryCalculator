@@ -3,15 +3,22 @@ Turing Machine Unary Calculator 2.0
 
 Previously Implemented:
   Mn - Loads the Unary number n into the Memory
+  
   MD - Replicates the content of the Display into the Memory
+  
   DM - Replicates the content of the Memory into the Display
+  
   MC - Clears (= blank) the content of the Memory
+  
   An - Adds the Unary number n and the content of the Display and put the result into the Display
 
 Enhancements:
   DC - Clears (= blank) the content of the Display
+  
   Dn - Loads the Unary number n into the Display
+  
   AM - Adds the contents of the Display and Memory and put the result into the Display
+  
   Sn - Subtracts the Unary number n from the content of the Display and put the result into the Display
 
 
