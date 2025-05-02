@@ -22,4 +22,8 @@ Enhancements:
   * Sn - Subtracts the Unary number n from the content of the Display and put the result into the Display
 
 
+
+
+
+
 <img width="694" alt="Screenshot 2025-05-01 at 10 13 53 PM" src="https://github.com/user-attachments/assets/d0b3f8f8-e241-48a7-9b81-b74e39a6ccd2" />
